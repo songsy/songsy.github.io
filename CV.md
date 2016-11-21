@@ -1,9 +1,9 @@
 ---
 layout: page
 title: CV
-
+group: navigation
 ---
-#{% include JB/setup %}
+{% include JB/setup %}
 
 
 ### About
