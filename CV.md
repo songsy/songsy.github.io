@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+header: CV
 group: navigation
 ---
 {% include JB/setup %}
