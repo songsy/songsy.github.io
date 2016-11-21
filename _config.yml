@@ -26,7 +26,7 @@ author :
 #
 production_url : http://songsy.github.io
 
-gems: ["jekyll-sitemap"]
+#gems: ["jekyll-sitemap"]
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
