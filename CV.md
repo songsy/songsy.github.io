@@ -42,6 +42,9 @@ I’m a passionate and experienced senior genomics data scientist specialized in
 * NGS analysis: read alignment (BWA, samtools), variant calling (GATK), CNV calling (Delly, Pindel), denovo assembly (velvet, SOAPdenovo), statistical phasing (ShapeIT, Eagle, beagle), RNA-seq analysis(tophat)
 * Population genetics tools: simulation tools (ms, macs), MEGA, PCAdmix, RFMix, Admixture, AdmixTools, PSMC, MSMC, G-PhoCS, ABCtoolbox
 
+### Certificates:
+* Completion of deeplearning.ai [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/BQW5RCM2X3YJ)
+
 ### Publications: [google scholar](https://scholar.google.com/citations?hl=en&user=C5SDwxkAAAAJ&view_op=list_works&sortby=pubdate)
 * Yu, He, <b>Shiya Song</b>, Jiazi Liu, Sheng Li, Lu Zhang, Dajun Wang, and Shu-Jin Luo. Effects of the Qinghai- Tibet Railway on the Landscape Genetics of the Endangered Przewalskis Gazelle (Procapra przewalskii). Scientific reports 7, no. 1 (2017): 17983.
 * Laura R. Botigue*, <b>Shiya Song</b>*, Amelie Scheu*, Shyamalika Gopalan, Amanda L. Pendleton, Matthew Oetjens, Angela Taravella, Timo Seregely, Andrea Zeeb-Lanz, Rose- Marie Arbogast, Dean Bobo, Kevin Daly, Martina Unterlander, Joachim Burger, Jeffrey M. Kidd, Krishna R. Veeramah. (2017). Ancient European dog genomes reveal continuity since the Early Neolithic. Nature Communications, 8. (*authors contributed equally)
