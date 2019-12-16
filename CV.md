@@ -13,7 +13,7 @@ I’m a passionate and experienced senior genomics data scientist specialized in
 
 ### Education
 * Ph.D in Bioinformatics & Master in Statistics, University of Michigan, 2012-2016
-  * Dissertation title: Demographic and population separation history inference based on wholegenome sequences.
+  * Dissertation title: Demographic and population separation history inference based on whole genome sequences
   * Ph.D thesis committee: Jeffrey Kidd, Jun Li, Hyun Min Kang, Kerby A. Shedden, Patricia Wittkopp, Sebastian K. Zollner
 * B.S in Life Science, Peking University, 2008-2012
 
@@ -21,8 +21,8 @@ I’m a passionate and experienced senior genomics data scientist specialized in
 * Genomics Data Scientist (Senior Staff), Ancestry.com, Aug 2016 - Present
   * Project lead on ancestry inference algorithm and reference panel development
   * Provide scientific support to product, UX and engineering teams for DNA origin story, DNA circle and Thrulines product lines 
-  * Wrote two white papers,co-authored one journal publication and filed 4 non-provisional patents as lead inventor
-  * Intern manager of [Aaron Stern](https://35ajstern.github.io/) from UC Berkeley in summer 2017.
+  * Wrote two white papers, co-authored one journal publication and filed 4 non-provisional patents as lead inventor
+  * Intern manager of [Aaron Stern](https://35ajstern.github.io/) from UC Berkeley in summer 2017
 
 * Graduate Student, Research Assistant, University of Michigan, 2012 - 2016
   * Developed a computational pipeline to analyze and reconstruct global haplotypes with high accuracy using next generation sequencing data from pools of fosmid clones as part of 1000 Genomes Project Phase III
@@ -30,8 +30,8 @@ I’m a passionate and experienced senior genomics data scientist specialized in
   * Analyzed over 100 contemporary village/breed dogs and ancient dog whole genome sequences using population genetics methods (PCA, ADMIXTURE, f3/f4, G-PhoCS) to understand the evolutionary and demographic history of dogs since the primary wolf divergence
 
 * Computational Biology Intern, Ancestry.com, 2015 Summer
-  * Used Hadoop framework to process genotype data from 770,000 individuals, calculated genetic differentiation (Fst) among genetic communities, and performed hierarchal clustering based on Fst distance.
-  * Identified haplotype clusters enriched in genetic communities (inferred from IBD network), applied PCA to identify ancestry of enriched haplotypes, drew haplotype network and explored the biological meaning for enriched haplotypes.
+  * Used Hadoop framework to process genotype data from 770,000 individuals, calculated genetic differentiation (Fst) among genetic communities, and performed hierarchal clustering based on Fst distance
+  * Identified haplotype clusters enriched in genetic communities (inferred from IBD network), applied PCA to identify ancestry of enriched haplotypes, drew haplotype network and explored the biological meaning for enriched haplotypes
 
 ### Skills
 * Languages/Computing
