@@ -13,12 +13,13 @@ I’m a passionate genomics data scientist specialized in algorithm development 
 ### Contact
 Email me at song.shiya@gmail.com. My linkedin profile [here](https://www.linkedin.com/in/shiya-song-35169643/). My twitter [here](https://twitter.com/ShiyaSong)
 
+<!---
 ### Posts 
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
+--->
 
 
