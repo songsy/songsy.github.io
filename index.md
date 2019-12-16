@@ -7,6 +7,7 @@ tagline: homepage
 
 ### About
 <img src="Images/Shiya.jpg" width="100" height="100">
+
 I’m a passionate genomics data scientist specialized in algorithm development for DNA related products. Since I joined Ancestry DNA Science team in 2016, I develop statistical algorithms to interpret millions of genotypes and pedigrees and provide new genomic discoveries for consumers. I had a Ph.D in Bioinformatics and Master in Statistics from University of Michigan, where I worked with professor [Jeffrey Kidd](http://genome.med.umich.edu/kidd-lab/). I’m interested in population & statistical genetics, next generation sequencing analysis, statistical inference, machine learning and deep learning. I love new challenges and work with talented people. 
 
 ### Contact
